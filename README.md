@@ -1,4 +1,4 @@
-# Project 1 : Personality Compatibility Test
+# Personality Compatibility Test
 Link : https://sasha-malik.github.io/Assignments-Connections-Lab/Assignment4/
 
 <img width="1434" alt="Screen Shot 2022-09-30 at 7 03 08 PM" src="https://user-images.githubusercontent.com/106297572/193299641-cc9b5f9c-fb39-45a9-8ad9-758c88b01696.png">
